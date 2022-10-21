@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   width: 100%;
 }
-*{
+* {
  background-color: aqua; 
 }
   
@@ -10,3 +10,24 @@ html, body {
 h1 {
   background-color: rgb(255, 255, 128);
   }
+.first-list{
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+  background-color: pink;
+}
+.second-list{
+  font-family: "Comic Sans MS";
+  font-size: 20px;
+  background: pink;
+}
+  .explanation{
+    font-size: 30px;
+    
+  }
+.last-section{
+font-family: "Comic Sans MS";
+  font-size: 20px;
+  background-color: pink;
+}
+  
+
